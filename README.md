@@ -4,7 +4,7 @@ Abstract. A purely peer-to-peer version of electronic cash would allow online pa
 
 What i use :
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,neovim,vscodium,notion,obsidian,latex,nix,linux,windows,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,neovim,notion,obsidian,latex,nix,linux,windows,docker)](https://skillicons.dev)
 <a href="https://www.google.com/script/start/">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="gappscript"  width="50"/>
 </a>
