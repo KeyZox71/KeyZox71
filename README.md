@@ -8,4 +8,4 @@ What i use :
 <a href="https://www.google.com/script/start/">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="gappscript"  width="50"/>
 </a>
-[![adjoly's 42 stats](https://badge42.coday.fr/api/v2/clqhm6nqi075101p4m0ebhb7p/stats?cursusId=21&coalitionId=219)](https://github.com/Coday-meric/badge42)
+
