@@ -5,11 +5,6 @@ I'm a proud NixOS user and love Nix as a language.
 
 ## Technologies
 All the technologies, languages I know/use😎 just below 👇.
-#### Languages
-![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CPP-044F88?style=flat&logo=cplusplus&logoColor=white&)
-![Static Badge](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
-
 #### DevOps
 ![Static Badge](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
@@ -18,6 +13,10 @@ All the technologies, languages I know/use😎 just below 👇.
 ![Static Badge](https://img.shields.io/badge/Alpine-0D597F?style=flat&logo=alpinelinux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+#### Languages
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CPP-044F88?style=flat&logo=cplusplus&logoColor=white&)
+![Static Badge](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
 
 ## Stats
 <picture>
