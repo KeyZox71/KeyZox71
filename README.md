@@ -5,7 +5,13 @@
 [![My Skills](https://skillicons.dev/icons?i=c,nix,cpp)](https://skillicons.dev)
 
 ## DevOPS Tools I use
-<img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" />
+<div>
+  <img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" />
+  <a href="https://nixos.org" rel="noopener noreferrer" target="_blank" rel=""><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" /></a>
+</div>
+
+## OS i use
+
 
 ## Stats
 <picture>
