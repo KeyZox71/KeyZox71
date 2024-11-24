@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img height=32 src="https://media.discordapp.net/attachments/1277203930387845211/1297927099222458458/catually.png?ex=6744874e&is=674335ce&hm=f951859b76bee67f677118713afaef2c4c0e10c9be811c0811a6a3ff887c885c&=&format=webp&quality=lossless" />
 
 ## Technologies
 All the technologies, languages I know/use😎 just below 👇.
@@ -46,4 +46,4 @@ All the technologies, languages I know/use😎 just below 👇.
 </picture>
 
 ## Contact
-You can contact me on LinkedIn or X, if you have anything you wanna talk about 👍
+Feel free to contact me on LinkedIn, X or even BlueSky if you have anything you wanna talk about
