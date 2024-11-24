@@ -1,5 +1,8 @@
 # Hi there <img height=32 src="https://media.discordapp.net/attachments/1277203930387845211/1297927099222458458/catually.png?ex=6744874e&is=674335ce&hm=f951859b76bee67f677118713afaef2c4c0e10c9be811c0811a6a3ff887c885c&=&format=webp&quality=lossless" />
 
+![Static Badge](https://img.shields.io/badge/Student%20%40%2042Angoul%C3%AAme-black?style=flat&logo=42&logoColor=white)
+
+
 ## Technologies
 All the technologies, languages I know/use😎 just below 👇.
 #### Languages
