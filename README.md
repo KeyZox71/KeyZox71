@@ -2,22 +2,16 @@
 
 ## Technologies
 All the technologies, languages I know/use😎 just below 👇.
-### Languages
-<div>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
-  <a href="https://isocpp.org"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a>
-</div>
+#### Languages
+![Static Badge](https://img.shields.io/badge/C-323330?style=flat&logo=c&labelColor=white)
+![Static Badge](https://img.shields.io/badge/CPP-323330?style=flat&logo=cplusplus&logoColor=044F88&labelColor=white)
+#### DevOps
+![Static Badge](https://img.shields.io/badge/NixOS-323330?style=flat&logo=nixos&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-323330?style=flat&logo=docker&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Proxmox-323330?style=flat&logo=proxmox&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Alpine-323330?style=flat&logo=alpinelinux&logoColor=blue&labelColor=white)
 
-### DevOPS
-<div>
-  <a href="https://docker.com"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
-  <a href="https://traefik.io/traefik/"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" /></a>
-  <a href="https://nginx.org"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" /></a>
-  <a href="https://nixos.org"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" /></a>
-  <a href="https://www.proxmox.com"><img height=48 src="https://www.proxmox.com/favicon.svg"></a>
-  <a href="https://windows.com"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
-  <a><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"></a>
-</div>
+
 
 ## Stats
 <picture>
