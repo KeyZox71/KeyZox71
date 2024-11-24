@@ -1,6 +1,7 @@
 # Hi there <img height=32 src="https://media.discordapp.net/attachments/1277203930387845211/1297927099222458458/catually.png?ex=6744874e&is=674335ce&hm=f951859b76bee67f677118713afaef2c4c0e10c9be811c0811a6a3ff887c885c&=&format=webp&quality=lossless" />
-![Static Badge](https://img.shields.io/badge/Student%20%40%2042Angoul%C3%AAme-black?style=flat&logo=42&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/Student%20%40%2042Angoul%C3%AAme-black?style=flat&logo=42&logoColor=white) \
+Currectly in the common core of the 42 School, i'm 19 y/o and passionnate about DevOps and Self hosting anything.
+I'm a proud NixOS user and love Nix as a language.
 
 ## Technologies
 All the technologies, languages I know/use😎 just below 👇.
@@ -16,8 +17,7 @@ All the technologies, languages I know/use😎 just below 👇.
 ![Static Badge](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Alpine-0D597F?style=flat&logo=alpinelinux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-
+![Static Badge](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 ## Stats
 <picture>
