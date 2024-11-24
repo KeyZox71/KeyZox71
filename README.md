@@ -46,3 +46,4 @@ All the technologies, languages I know/use😎 just below 👇.
 </picture>
 
 ## Contact
+You can contact me on LinkedIn or X, if you have anything you wanna talk about 👍
