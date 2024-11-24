@@ -5,11 +5,15 @@ All the technologies, languages I know/use😎 just below 👇.
 #### Languages
 ![Static Badge](https://img.shields.io/badge/C-323330?style=flat&logo=c&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/CPP-323330?style=flat&logo=cplusplus&logoColor=044F88&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Nix-323330?style=flat&logo=nixos&labelColor=white)
+
 #### DevOps
+![Static Badge](https://img.shields.io/badge/Traefik-323330?style=flat&logo=traefikproxy&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/NixOS-323330?style=flat&logo=nixos&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-323330?style=flat&logo=docker&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Proxmox-323330?style=flat&logo=proxmox&labelColor=white)
-![Static Badge](https://img.shields.io/badge/Alpine-323330?style=flat&logo=alpinelinux&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Alpine-323330?style=flat&logo=alpinelinux&logoColor=0D597F&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Bash%20Scripting-323330?style=flat&logo=gnubash&logoColor=black&labelColor=white)
 
 
 
