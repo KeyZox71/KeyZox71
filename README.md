@@ -1,22 +1,21 @@
 # Hi there 👋
 
-## Languages
+## Technologies
+All the technologies, languages I know/use😎 just below 👇.
+### Languages
 <div>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
   <a href="https://isocpp.org"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a>
 </div>
 
-## DevOPS
+### DevOPS
 <div>
+  <a href="https://docker.com"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
   <a href="https://traefik.io/traefik/"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" /></a>
   <a href="https://nginx.org"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" /></a>
-</div>
-
-## OS
-<div>
   <a href="https://nixos.org"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" /></a>
-  <a href="https://windows.com"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
   <a href="https://www.proxmox.com"><img height=48 src="https://www.proxmox.com/favicon.svg"></a>
+  <a href="https://windows.com"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
   <a><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"></a>
 </div>
 
