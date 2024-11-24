@@ -11,7 +11,6 @@ All the technologies, languages I know/use😎 just below 👇.
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Alpine-0D597F?style=flat&logo=alpinelinux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 #### Languages
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
