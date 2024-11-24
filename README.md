@@ -1,17 +1,24 @@
 # Hi there 👋
 
-## Language
-
-[![My Skills](https://skillicons.dev/icons?i=c,nix,cpp)](https://skillicons.dev)
-
-## DevOPS Tools I use
+## Languages
 <div>
-  <img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" />
-  <a href="https://nixos.org" rel="noopener noreferrer" target="_blank" rel=""><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
+  <a href="https://isocpp.org"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a>
 </div>
 
-## OS i use
+## DevOPS
+<div>
+  <a href="https://traefik.io/traefik/"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" /></a>
+  <a href="https://nginx.org"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" /></a>
+</div>
 
+## OS
+<div>
+  <a href="https://nixos.org"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" /></a>
+  <a href="https://windows.com"><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
+  <a href="https://www.proxmox.com"><img height=48 src="https://www.proxmox.com/favicon.svg"></a>
+  <a><img height=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"></a>
+</div>
 
 ## Stats
 <picture>
