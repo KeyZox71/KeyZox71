@@ -32,5 +32,10 @@ All the technologies, languages I know/use😎 just below 👇.
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=keyzox71&show_icons=true" />
 </picture>
 
+## School project
+Only group project are on Github, the rest is on my own gitea. Enjoy !
+
+![Static Badge](https://img.shields.io/badge/adjoly%20-%20GitZox-609926?style=flat&logo=gitea&logoColor=white)
+
 ## Contact
 Feel free to contact me on LinkedIn, X or even BlueSky if you have anything you wanna talk about
