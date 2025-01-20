@@ -17,6 +17,8 @@ All the technologies, languages I know/use😎 just below 👇.
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CPP-044F88?style=flat&logo=cplusplus&logoColor=white&)
 [![Static Badge](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)](https://nixos.org)
+![Static Badge](https://img.shields.io/badge/GO-%2300ADD8?style=flat&logo=go&logoColor=white)
+
 
 ## Stats
 <picture>
