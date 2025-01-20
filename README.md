@@ -38,7 +38,7 @@ All the technologies, languages I know/use😎 just below 👇.
 ## School project
 Only group project are on Github, the rest is on my own gitea. Enjoy ! 
 
-[![Static Badge](https://img.shields.io/badge/adjoly%20-%20GitZox-609926?logo=gitea&logoColor=white)](https://git.keyzox.me/42_adjoly)
+[![Static Badge](https://img.shields.io/badge/adjoly%20-%20GitZox-609926?logo=gitea&logoColor=white)](https://git.kanel.ovh/42_adjoly)
 
 
 ## Contact
