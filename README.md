@@ -36,7 +36,7 @@ All the technologies, languages I know/use😎 just below 👇.
 </picture>
 
 ## School project
-Only group project are on Github, the rest is on my own gitea. Enjoy ! 
+Only group project are on Github, the rest is on my own **selfhosted** gitea. Enjoy ! 
 
 [![Static Badge](https://img.shields.io/badge/adjoly%20-%20GitZox-609926?logo=gitea&logoColor=white)](https://git.kanel.ovh/42_adjoly)
 
