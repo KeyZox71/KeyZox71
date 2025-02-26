@@ -9,7 +9,6 @@ All the technologies, languages I know/use😎 just below 👇.
 [![Static Badge](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)](https://traefik.io/traefik/)
 [![Static Badge](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)](https://nixos.org)
 [![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
-[![Static Badge](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)](https://proxmox.com)
 [![Worst Operating system ever fuck you Microsoft](https://img.shields.io/badge/Windows%2010%2F11-blue?style=flat&logoColor=white)](https://windows.com)
 [![Static Badge](https://img.shields.io/badge/Alpine-0D597F?style=flat&logo=alpinelinux&logoColor=white)](https://alpinelinux.org)
 [![Static Badge](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org)
