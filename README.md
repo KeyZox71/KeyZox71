@@ -42,3 +42,8 @@ Only group project are on Github, the rest is on my own **selfhosted** gitea. En
 
 ## Contact
 Feel free to contact me on LinkedIn or even BlueSky if you have anything you wanna talk about
+
+## Finance me
+Please don't, but in case you don't want to listen to me here is my Ko-fi :
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B31FA2P5)
